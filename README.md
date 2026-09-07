@@ -28,7 +28,7 @@
 
 ---
 
-# 🌷 About This Garden
+# 🌷 About Me
 
 Hello traveler.
 
@@ -163,25 +163,6 @@ Fighting against: Bugs
 
 ---
 
-# 🐍 Garden Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 🎧 Now Playing
-
-```txt
-♪ Taylor Swift
-♪ Lo-fi coding playlists
-♪ The sound of successful deployments
-```
-
----
 
 # 📬 Message Board
 
