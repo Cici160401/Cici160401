@@ -60,13 +60,9 @@ Side Quests:
   - Improve C# and ASP.NET skills
   - Learn more Machine Learning
   - Study Deep Learning
-  - Publish research
+  - Reproduce research
   - Build useful products
 
-Completed Quests:
-  - Information Technology Degree
-  - Oxford Summer School on Machine Learning
-  - Deep Learning School @ UBA
 ```
 
 ---
