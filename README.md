@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦･ﾟ:* 🌸 KARLA'S DIGITAL GARDEN 🌸 *:･ﾟ✦
+# ✦･ﾟ:* 🌸 CICI'S DIGITAL GARDEN 🌸 *:･ﾟ✦
 
 <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Welcome+to+my+corner+of+the+internet...;Software+Engineer+%7C+AI+Explorer;Building+APIs+and+Neural+Networks;Researching+strange+and+wonderful+things;Currently+debugging+reality.exe" />
 
