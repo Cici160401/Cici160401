@@ -32,7 +32,7 @@
 
 Hello.
 
-I'm **Karla**, a software engineer from Ecuador who enjoys building software, exploring machine learning, reading research papers and creating projects that connect technology with real-world problems. I am currently interested in exploring XAI techniques and AI for Good.
+I'm **Karla**, an IT Engineer from Ecuador who enjoys building software, exploring machine learning, reading research papers and creating projects that connect technology with real-world problems. I am currently interested in XAI techniques and AI for Good, doing research in the intersection of Agriculture and CNNs.
 
 ---
 
@@ -75,25 +75,6 @@ I'm **Karla**, a software engineer from Ecuador who enjoys building software, ex
 ▣ Deep Learning
 ▣ MLOps
 ```
-
-### Current Interests
-
-```txt
-✦ AI Research
-✦ Agriculture Technology
-✦ Computer Vision
-✦ Open Source
-```
-
-### Current Status
-
-```txt
-Listening to: Taylor Swift and Cats
-Drinking: Coffee
-Thinking about: Neural Networks
-Fighting against: Bugs
-```
-
 ---
 
 # 📚 Research & Academic Activities
