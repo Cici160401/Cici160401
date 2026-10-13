@@ -30,40 +30,9 @@
 
 # 🌷 About Me
 
-Hello traveler.
+Hello.
 
-I'm **Karla**, a software engineer from Ecuador who enjoys building software, exploring machine learning, reading research papers and creating projects that connect technology with real-world problems.
-
-My favorite intersection is where:
-
-```txt
-Software Engineering
-        +
-Machine Learning
-        +
-Research
-        +
-Agriculture
-        =
-Interesting Things ✨
-```
-
----
-
-# 🎮 Current Quest Log
-
-```yaml
-Main Quest:
-  Build AI solutions for agriculture
-
-Side Quests:
-  - Improve C# and ASP.NET skills
-  - Learn more Machine Learning
-  - Study Deep Learning
-  - Reproduce research
-  - Build useful products
-
-```
+I'm **Karla**, a software engineer from Ecuador who enjoys building software, exploring machine learning, reading research papers and creating projects that connect technology with real-world problems. I am currently interested in exploring XAI techniques and AI for Good.
 
 ---
 
@@ -158,33 +127,9 @@ Fighting against: Bugs
 </div>
 
 ---
-
-
-# 📬 Message Board
-
-If you want to talk about:
-
-✦ Software Engineering
-
-✦ Machine Learning
-
-✦ Research
-
-✦ Agriculture + AI
-
-✦ FastAPI
-
-✦ C#
-
-✦ Weird side projects
-
-Feel free to reach out.
-
----
-
 <div align="center">
 
-### ✦ Thanks for visiting my garden ✦
+### ✦ Thanks for visiting ✦
 
 ```txt
 ╔════════════════════════════════════╗
