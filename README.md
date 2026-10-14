@@ -11,21 +11,6 @@
 </div>
 
 ---
-
-```txt
-╔══════════════════════════════════════════════════════════════╗
-║                      LOADING KARLA.EXE                      ║
-║                                                              ║
-║  ████████████████████████████████████ 100%                  ║
-║                                                              ║
-║  STATUS   :: ONLINE                                          ║
-║  LOCATION :: ECUADOR 🇪🇨                                     ║
-║  CLASS    :: SOFTWARE ENGINEER                               ║
-║  SUBCLASS :: AI EXPLORER                                     ║
-║  QUEST    :: BUILD COOL THINGS                               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 ---
 
 # 🌷 About Me
