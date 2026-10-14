@@ -10,14 +10,11 @@
 
 </div>
 
----
----
-
 # 🌷 About Me
 
 Hello.
 
-I'm **Karla**, an IT Engineer from Ecuador who enjoys building software, exploring machine learning, reading research papers and creating projects that connect technology with real-world problems. I am currently interested in XAI techniques and AI for Good, doing research in the intersection of Agriculture and CNNs.
+I'm **Karla**, an IT Engineer from Ecuador who enjoys building software, exploring machine learning, reading research papers and creating projects that connect technology with real-world problems. I am currently interested in XAI techniques and AI for Good, doing research in the intersection of Agriculture and CNNs. I work as a FullStack Software Developer in a BPM project.
 
 ---
 
