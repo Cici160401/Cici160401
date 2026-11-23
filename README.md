@@ -46,19 +46,6 @@ I'm **Karla**, an IT Engineer from Ecuador who enjoys building software, explori
 
 ---
 
-# 🌸 Digital Shrine
-
-### Currently Learning
-
-```txt
-▣ ASP.NET
-▣ BPMS
-▣ Machine Learning
-▣ Deep Learning
-▣ MLOps
-```
----
-
 # 📚 Research & Academic Activities
 
 - Oxford Summer School on Machine Learning Fundamentals
